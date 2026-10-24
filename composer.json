@@ -1,0 +1,22 @@
+{
+  "name": "hzanchu/env",
+  "description": "laravel env manager",
+  "type": "php-extension",
+  "keywords": ["php","array","class","function"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "chenzhiwei",
+      "email": "chenzhiwei@hzanchu.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "laravel/framework": ">=7"
+  },
+  "autoload": {
+    "psr-4": {
+      "Anchu\\Env\\": ""
+    }
+  }
+}
