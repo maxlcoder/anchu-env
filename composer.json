@@ -1,5 +1,5 @@
 {
-  "name": "hzanchu/env",
+  "name": "maxlcoder/anchu-env",
   "description": "laravel env manager",
   "type": "php-extension",
   "keywords": ["php","array","class","function"],
